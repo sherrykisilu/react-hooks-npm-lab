@@ -1,0 +1,19 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "a clock that changes color",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'",
+    "start": "serve"
+  },
+  "author": "sherry kisilu",
+  "license": "ISC",
+  "keywords": [
+    "color-clock"
+  ],
+  "dependencies": {
+    "date-fns": "^2.29.3",
+    "serve": "^14.1.2"
+  }
+}
